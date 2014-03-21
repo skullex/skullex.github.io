@@ -1,0 +1,14 @@
+.zombie {
+	width: 100px;
+	height: 100px; 
+    color: 'green';
+   text-align:center;
+   background:#33cc66;
+   color:red;
+   font-size: 20pt;
+}
+
+.awesome {
+  background-color:magenta;
+  font-size:19pt;
+}
